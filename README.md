@@ -1,4 +1,13 @@
-### Hi there 👋
+![Muhammad Ahmad](static/cover.png)
+
+## Muhammad Ahmad
+### Senior DevOps Engineer | Kubernetes | Docker | AWS | SonarQube 
+
+✍🏼 Experienced Cloud and DevOps Architect proficient in AWS, Azure, Docker, and baremetal and cloud managed Kubernetes (EKS, AKS, GKE). Specialized in architecting DevOps solutions for enterprise-level software providers, optimizing CI/CD pipelines across deployment stages for improved efficiency.
+
+
+<br />
+
 
 <!--
 **Muhammad-Ahmad09/Muhammad-Ahmad09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
