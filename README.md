@@ -8,7 +8,7 @@
 
 [![MY CV/Resume](https://img.shields.io/badge/⬇%20My%20CV%2FResume-8A2BE2?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/Muhammad-Ahmad09/Muhammad-Ahmad09/main/media/Muhammad%20Ahmad%20Resume.pdf)
 [![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com)
-https://github.com/
+
 
 <br />
 
