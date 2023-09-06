@@ -42,9 +42,9 @@
 <br />
 
 ## Let's connect  💬
-[![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com){:target="_blank" rel="noopener"}
-[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-7378321b7/){:target="_blank" rel="noopener"}
-[![WhatsApp](https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923044507039){:target="_blank" rel="noopener"}
+[![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-7378321b7/)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923044507039)
 
 <br>
 
