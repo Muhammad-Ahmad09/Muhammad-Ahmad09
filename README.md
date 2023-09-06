@@ -3,16 +3,12 @@
 
 ✍🏼 Experienced Cloud and DevOps Architect proficient in AWS, Docker, and baremetal and cloud managed Kubernetes (EKS). Specialized in architecting DevOps solutions for enterprise-level software providers, optimizing CI/CD pipelines across deployment stages for improved efficiency.
 
-
-<br />
-
 [![MY CV/Resume](https://img.shields.io/badge/⬇%20My%20CV%2FResume-8A2BE2?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/Muhammad-Ahmad09/Muhammad-Ahmad09/main/media/Muhammad%20Ahmad%20Resume.pdf)
-[![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com)
 
 
 <br />
 
-## ⚙️ My Skills
+## ⚙️ My Skills 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -34,6 +30,16 @@
 
 <br />
 
+## Let's connect  💬
+[![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-7378321b7/)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923044507039)
+
+
+
+
+<br />
+
 ## 💻 Stuff I worked on last week
 
 <!--START_SECTION:waka-->
@@ -43,17 +49,5 @@
 <br />
 
 Thanks for your visit. ❤️ From [Muhammad Ahmad](https://github.com/Muhammad-Ahmad09)
-<!--
-**Muhammad-Ahmad09/Muhammad-Ahmad09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
