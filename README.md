@@ -32,6 +32,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 29 August 2023 - To: 05 September 2023
+
+Markdown   25 mins         ███████████████████▒░░░░░   76.98 %
+YAML       5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+sh         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+```
+
 <!--END_SECTION:waka-->
 
 <br />
