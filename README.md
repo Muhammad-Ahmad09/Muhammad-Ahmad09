@@ -28,15 +28,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br />
-
-## Let's connect  💬
-[![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-7378321b7/)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923044507039)
-
-
-
 
 <br />
 
@@ -47,6 +38,15 @@
 <!--END_SECTION:waka-->
 
 <br />
+
+<br />
+
+## Let's connect  💬
+[![Email](https://img.shields.io/badge/mail%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chahmad09@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-7378321b7/)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923044507039)
+
+<br>
 
 Thanks for your visit. ❤️ From [Muhammad Ahmad](https://github.com/Muhammad-Ahmad09)
 
