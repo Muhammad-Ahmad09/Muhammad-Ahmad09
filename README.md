@@ -36,11 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Markdown   25 mins         ███████████████████▒░░░░░   76.98 %
-YAML       5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-sh         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Markdown      1 hr 34 mins    █████████████████████▓░░░   86.37 %
+Objective-C   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+YAML          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+sh            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
