@@ -36,16 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-YAML              5 hrs 27 mins   █████████████░░░░░░░░░░░░   51.76 %
-Terraform         4 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   39.98 %
-XML               24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Bash              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Other             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Ezhil             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+YAML              4 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.48 %
+Terraform         3 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   46.47 %
+XML               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
