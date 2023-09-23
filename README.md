@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-YAML        3 hrs 40 mins   █████████████░░░░░░░░░░░░   51.81 %
-Terraform   3 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   44.91 %
-Markdown    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+YAML        3 hrs 48 mins   ███████████████▓░░░░░░░░░   62.55 %
+Terraform   2 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.65 %
+Markdown    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
