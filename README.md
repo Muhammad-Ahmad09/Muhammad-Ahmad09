@@ -36,12 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-YAML        3 hrs 48 mins   ███████████████▓░░░░░░░░░   62.55 %
-Terraform   2 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   33.65 %
-Markdown    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+YAML         5 hrs 50 mins   █████████████████░░░░░░░░   68.22 %
+Terraform    2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+Assembly     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Ezhil        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
