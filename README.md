@@ -36,9 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-YAML   0 secs          █████████████████████████   100.00 %
+Bash   3 mins          ██████████████▓░░░░░░░░░░   58.13 %
+YAML   2 mins          ██████████▒░░░░░░░░░░░░░░   41.87 %
 ```
 
 <!--END_SECTION:waka-->
