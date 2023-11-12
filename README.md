@@ -36,16 +36,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2023 - To: 09 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-YAML                       5 hrs 39 mins   ███████████████████▒░░░░░   77.83 %
-Nginx                      41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Docker                     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Markdown                   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JavaScript                 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Other                      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Bash                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Nginx configuration file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+YAML                       4 hrs 31 mins   ███████████████████░░░░░░   76.20 %
+Nginx                      41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Docker                     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+JavaScript                 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Other                      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Bash                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Nginx configuration file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Markdown                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
