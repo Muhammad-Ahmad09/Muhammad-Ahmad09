@@ -36,16 +36,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-YAML                       2 hrs 41 mins   █████████████████████▒░░░   85.38 %
-Bash                       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Markdown                   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Other                      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Nginx                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML                       2 hrs 26 mins   █████████████████████░░░░   84.38 %
+Bash                       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Markdown                   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Other                      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+reStructuredText           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
