@@ -36,11 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-YAML     10 mins         ██████████████████████▒░░   88.86 %
-Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Docker   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+YAML   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
