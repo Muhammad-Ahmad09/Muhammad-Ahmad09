@@ -36,9 +36,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-YAML   10 mins         █████████████████████████   100.00 %
+YAML                       3 hrs 33 mins   ██████████████▒░░░░░░░░░░   57.51 %
+Docker                     1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+INI                        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Text                       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Bash                       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Other                      16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Nginx configuration file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Python                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
