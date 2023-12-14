@@ -36,12 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 11 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-YAML       1 hr 2 mins     █████████████▒░░░░░░░░░░░   53.33 %
-Markdown   34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-Docker     20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Docker   20 mins         ███████████████░░░░░░░░░░   59.78 %
+YAML     13 mins         ██████████░░░░░░░░░░░░░░░   40.22 %
 ```
 
 <!--END_SECTION:waka-->
