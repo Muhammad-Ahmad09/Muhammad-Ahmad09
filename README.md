@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
 YAML              2 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.68 %
 Other             1 hr 44 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
