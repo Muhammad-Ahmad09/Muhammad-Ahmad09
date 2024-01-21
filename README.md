@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Other   1 hr 41 mins    ███████████████░░░░░░░░░░   60.20 %
-Text    1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   39.54 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other   1 hr 41 mins    █████████████░░░░░░░░░░░░   52.61 %
+Text    1 hr 30 mins    ███████████▓░░░░░░░░░░░░░   47.17 %
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
