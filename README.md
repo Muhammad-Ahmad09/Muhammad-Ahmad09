@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Other   2 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.34 %
-Text    1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-YAML    49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other   2 hrs 36 mins   ████████████▒░░░░░░░░░░░░   49.41 %
+Text    1 hr 50 mins    ████████▓░░░░░░░░░░░░░░░░   34.87 %
+YAML    49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
