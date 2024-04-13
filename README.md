@@ -36,12 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Python   11 mins         ████████████████████████░   95.79 %
-YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Docker   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Python   10 mins         ████████████████████████▓   98.73 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
