@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2024 - To: 25 April 2024
+From: 19 April 2024 - To: 26 April 2024
 
-Terraform   8 hrs 23 mins   ███████████████████▓░░░░░   78.73 %
-HCL         1 hr 59 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-YAML        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Terraform   8 hrs 54 mins   ████████████████████░░░░░   79.62 %
+HCL         1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+YAML        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
