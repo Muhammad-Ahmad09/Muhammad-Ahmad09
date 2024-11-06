@@ -36,13 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2024 - To: 04 November 2024
+From: 29 October 2024 - To: 05 November 2024
 
-YAML        6 hrs 13 mins   ███████████████████▒░░░░░   77.41 %
-Bash        48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Terraform   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Smarty      21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Other       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+YAML        6 hrs 3 mins    ███████████████████▓░░░░░   78.28 %
+Bash        1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Other       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Terraform   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
