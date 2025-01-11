@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
 YAML     2 hrs 34 mins   ███████████▓░░░░░░░░░░░░░   46.89 %
 Groovy   1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.60 %
