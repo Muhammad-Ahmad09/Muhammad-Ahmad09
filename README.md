@@ -36,13 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 06 March 2025
+From: 28 February 2025 - To: 07 March 2025
 
-YAML       14 hrs 53 mins  ████████████████████████▓   98.20 %
-Markdown   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-XML        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML       11 hrs 18 mins  ████████████████████████▒   96.97 %
+Markdown   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
