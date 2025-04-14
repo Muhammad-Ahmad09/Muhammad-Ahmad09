@@ -36,11 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
-YAML     17 hrs 6 mins   ████████████████████████░   96.39 %
-Docker   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Groovy   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+YAML       13 hrs 22 mins  ████████████████████████░   95.41 %
+Docker     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Groovy     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
