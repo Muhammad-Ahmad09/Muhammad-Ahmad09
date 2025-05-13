@@ -36,10 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-YAML   18 mins         ████████████████████▓░░░░   82.07 %
-Bash   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+YAML   4 mins          ██████████████░░░░░░░░░░░   55.73 %
+Bash   3 mins          ███████████░░░░░░░░░░░░░░   44.27 %
 ```
 
 <!--END_SECTION:waka-->
