@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
 Bash    2 hrs 17 mins   ██████████████████████▒░░   89.56 %
 YAML    13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
