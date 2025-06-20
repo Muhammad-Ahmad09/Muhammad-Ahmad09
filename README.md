@@ -36,11 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2025 - To: 18 June 2025
+From: 12 June 2025 - To: 19 June 2025
 
-YAML     13 hrs 38 mins  ████████████████████████▒   96.81 %
-Python   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML   15 hrs 19 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
