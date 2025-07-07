@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2025 - To: 05 July 2025
+From: 29 June 2025 - To: 06 July 2025
 
 JSON     10 hrs 33 mins  █████████████████▒░░░░░░░   69.43 %
 YAML     4 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
