@@ -36,12 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-YAML    7 hrs 17 mins   ███████████████████████░░   91.42 %
-JSON    31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Other   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Bash    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+YAML    7 hrs 16 mins   █████████████████████████   99.54 %
+Bash    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
