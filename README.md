@@ -36,11 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-YAML     12 hrs 58 mins  ███████████████████████▓░   94.91 %
-Docker   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+YAML     12 hrs 15 mins  ███████████████████████▓░   94.63 %
+Docker   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
