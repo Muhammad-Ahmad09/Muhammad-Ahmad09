@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-YAML     4 hrs 20 mins   █████████████████▒░░░░░░░   68.70 %
-Python   1 hr 22 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
-Other    30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Bash     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+YAML     4 hrs 41 mins   █████████████████░░░░░░░░   68.25 %
+Python   1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Other    30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Bash     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
