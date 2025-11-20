@@ -36,13 +36,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
-YAML        3 hrs           ██████████████████▒░░░░░░   73.23 %
-Python      59 mins         ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-Terraform   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+YAML     2 hrs 43 mins   ██████████████████░░░░░░░   72.25 %
+Python   59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
