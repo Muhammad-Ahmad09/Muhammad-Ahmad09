@@ -36,10 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Python   15 mins         ████████████████████████░   95.80 %
-YAML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
