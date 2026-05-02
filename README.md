@@ -36,16 +36,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-YAML                       12 hrs 30 mins        ██████████████▓░░░░░░░░░░   58.48 %
-Other                      3 hrs 46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
-Docker                     2 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Markdown                   1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Nginx configuration file   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JSON                       14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Python                     13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-TypeScript                 8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+YAML                       10 hrs 27 mins        █████████████▓░░░░░░░░░░░   54.94 %
+Other                      3 hrs 27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+Docker                     3 hrs 12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+Markdown                   42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JSON                       23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Nginx configuration file   19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python                     12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+TypeScript                 9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
