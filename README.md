@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2026 - To: 31 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
 YAML        8 hrs 19 mins         ██████████░░░░░░░░░░░░░░░   39.61 %
 Markdown    5 hrs 39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
