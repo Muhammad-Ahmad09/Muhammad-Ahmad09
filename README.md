@@ -36,14 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-YAML        1 hr 12 mins          ██████████████████░░░░░░░   72.48 %
-HCL         14 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Terraform   8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Other       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Markdown    2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Text        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML   14 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
