@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Bash       2 hrs 13 mins         █████████████▒░░░░░░░░░░░   53.31 %
-Markdown   1 hr 20 mins          ████████░░░░░░░░░░░░░░░░░   32.33 %
-Other      31 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-YAML       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash       2 hrs 13 mins         ███████████████░░░░░░░░░░   60.33 %
+Markdown   1 hr 20 mins          █████████░░░░░░░░░░░░░░░░   36.58 %
+YAML       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Other      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
